@@ -12,6 +12,7 @@ https://p9e.page/cupid
 https://p9e.page/danse
 https://p9e.page/dissolve
 https://p9e.page/dream
+https://p9e.page/duyu
 https://p9e.page/eros
 https://p9e.page/fiction
 https://p9e.page/fireflies
@@ -22,6 +23,7 @@ https://p9e.page/gerbera
 https://p9e.page/glow
 https://p9e.page/grace
 https://p9e.page/grimes
+https://p9e.page/halo
 https://p9e.page/hemi
 https://p9e.page/humming
 https://p9e.page/jimi
@@ -61,3 +63,4 @@ https://p9e.page/uranus
 https://p9e.page/urwa
 https://p9e.page/watercress
 https://p9e.page/wave
+https://p9e.page/wobble
